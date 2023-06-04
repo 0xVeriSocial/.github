@@ -2,6 +2,10 @@
 
 VeriSocial is a place where anyone can verify their social media on-chain. This platform aims to allow anyone to have their social media verified, allowing any social media companies to authenticate their users through ease of integration.
 
+## Deployed Contracts
+Mumbai - 0x83f72B3b4C23b8406fEE20E25Dbcb7d2630C57cF
+Gnosis - 0xc24985C3c23605d59285675d72aab0c29Efc42F0
+
 ## Technology Stack
 
 - Frontend: React and Next.js
